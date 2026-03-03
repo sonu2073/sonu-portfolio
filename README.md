@@ -82,58 +82,6 @@ This portfolio uses **zero external dependencies** — everything is built with:
 
 ---
 
-## 🏁 Getting Started
-
-No installation needed. Just open the file:
-
-```bash
-# Clone the repository
-git clone https://github.com/SonuMeena/portfolio.git
-
-# Navigate into the folder
-cd portfolio
-
-# Open directly in your browser
-open index.html
-```
-
-Or simply **double-click** `index.html` — it works instantly in any modern browser.
-
----
-
-## ☁️ Deployment
-
-### Option 1 — Netlify Drop *(Fastest — 10 seconds)*
-1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
-2. Drag and drop `index.html` onto the page
-3. Get a live URL instantly ✅
-
-### Option 2 — GitHub Pages
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to `main` branch, `/ (root)`
-4. Your site will be live at `https://sonumeena.github.io/portfolio` ✅
-
-### Option 3 — Vercel
-```bash
-npm install -g vercel
-vercel
-```
-Follow the prompts — live in under a minute ✅
-
----
-
-## 📁 Project Structure
-
-```
-portfolio/
-│
-└── index.html        ← Entire portfolio (HTML + CSS + JS in one file)
-```
-
-That's it. One file. Everything included.
-
----
 
 ## 🛠️ Customization
 
