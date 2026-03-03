@@ -38,7 +38,7 @@ A fully responsive, single-file personal portfolio website built with pure **HTM
 
 ## 🚀 Live Demo
 
-> 🔗 **[sonumeena.netlify.app](https://sonumeena.netlify.app)** *(deploy and update this link)*
+> 🔗 **[sonumeena.netlify.app]((https://sonu-portfolio-1ue7.vercel.app/))** *(deploy and update this link)*
 
 ---
 
