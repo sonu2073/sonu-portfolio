@@ -2,7 +2,7 @@
 
 A personal portfolio site built to showcase my data analytics projects, experience, and skills — styled as a live analytics dashboard, since that's the world I work in.
 
-**Live site:** [sonumeen.tech](https://sonumeen.tech) *(also available at [sonu-portfolio-1ue7.vercel.app](https://sonu-portfolio-1ue7.vercel.app))*
+**Live site:** [sonumeen.tech](https://sonumeen.tech) 
 
 ---
 
